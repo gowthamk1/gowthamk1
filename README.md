@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-🚀 I’m Gowtham K!<br>
-👨‍💻 Full Stack Developer | Java | Spring Boot | Hibernate | ReactJS | JavaScript | HTML | CSS | SQL | JDBC<br>
-🎯 Passionate about building scalable applications and solving real-world problems with clean, efficient code.
+👋 I’m Gowtham K!<br>
+🚀 Full Stack Developer | Java | Spring Boot | Hibernate | ReactJS | JavaScript | SQL | HTML | CSS | JDBC <br>
+🔹 A passionate Java Full Stack Developer skilled in building scalable, high-performance applications.
+🔹 Experienced in backend development (Spring Boot, Hibernate, SQL) and front-end frameworks (ReactJS, JavaScript).
+🔹 Strong problem-solving abilities and a keen eye for clean, efficient, and maintainable code.
+🔹 Enthusiastic about web development, API integration, and crafting seamless user experiences.
+🔹 Committed to continuous learning, staying up-to-date with the latest tech trends and best practices.
 
-💡 About Me:<br>
-🔹 Java Full Stack Developer with experience in Java, Spring Boot, Hibernate, ReactJS, and SQL.<br>
-🔹 Passionate about problem-solving, web development, and creating intuitive user experiences.<br>
-🔹 Experienced in working on backend systems, API development, and front-end applications.<br>
-🔹 Always learning and exploring new technologies to stay ahead in the field.
+Let’s connect and build something amazing! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gowthamk-javascript-reactjs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowthamkpvt@gmail.com) 
