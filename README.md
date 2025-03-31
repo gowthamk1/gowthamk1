@@ -2,11 +2,11 @@
 
 👋 I’m Gowtham K!<br>
 🚀 Full Stack Developer | Java | Spring Boot | Hibernate | ReactJS | JavaScript | SQL | HTML | CSS | JDBC <br>
-🔹 A passionate Java Full Stack Developer skilled in building scalable, high-performance applications.
-🔹 Experienced in backend development (Spring Boot, Hibernate, SQL) and front-end frameworks (ReactJS, JavaScript).
-🔹 Strong problem-solving abilities and a keen eye for clean, efficient, and maintainable code.
-🔹 Enthusiastic about web development, API integration, and crafting seamless user experiences.
-🔹 Committed to continuous learning, staying up-to-date with the latest tech trends and best practices.
+🔹 A passionate Java Full Stack Developer skilled in building scalable, high-performance applications.<br>
+🔹 Experienced in backend development (Spring Boot, Hibernate, SQL) and front-end frameworks (ReactJS, JavaScript).<br>
+🔹 Strong problem-solving abilities and a keen eye for clean, efficient, and maintainable code.<br>
+🔹 Enthusiastic about web development, API integration, and crafting seamless user experiences.<br>
+🔹 Committed to continuous learning, staying up-to-date with the latest tech trends and best practices.<br>
 
 Let’s connect and build something amazing! 🚀
 
