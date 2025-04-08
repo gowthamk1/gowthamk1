@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 I’m Gowtham K!
+👋 I’m Gowtham K! <br>
 🚀 Full Stack Developer | Java | Spring Boot | Hibernate | ReactJS | JavaScript | SQL | HTML | CSS | JDBC <br>
 🔹 2024 Computer Science graduate from VTU, trained at J Spiders in Java Full Stack Development. <br>
 🔹 Skilled in developing full-stack applications using ReactJS for front-end and Spring Boot with Hibernate for backend. <br>
